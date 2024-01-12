@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/withaarzoo/Animated-Loading-Button)](https://github.com/withaarzoo/Animated-Loading-Button/network)
 [![GitHub issues](https://img.shields.io/github/issues/withaarzoo/Animated-Loading-Button)](https://github.com/withaarzoo/Animated-Loading-Button/issues)
 
-A customizable and animated loading button created with HTML, CSS, and JavaScript.
+A customizable and animated loading button created with HTML, CSS, and JavaScript .
 
 ## Demo
 
